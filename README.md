@@ -10,6 +10,7 @@ When the objet is created, it connects to the mongrel sockets tcp://localhost:99
 TODO
 ====
 
+* Use autotools.
 * Make it threaded, so no metronome (metro) is needed.
 * Validate messages format.
 * Output list instead of symbols.
